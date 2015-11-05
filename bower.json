@@ -1,0 +1,23 @@
+{
+  "name": "hz-spotify",
+  "main": "hz-spotify.js",
+  "version": "0.0.0",
+  "authors": [
+    "1001hz <1001hz@gmail.com>"
+  ],
+  "description": "Spotify search API wrapper",
+  "keywords": [
+    "spotify"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
